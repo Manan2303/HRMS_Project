@@ -1,0 +1,12 @@
+2025-07-31 11:05:12 INFO  baseClass:20 - Inherit login page and redirect the driver
+2025-07-31 11:05:12 INFO  baseClass:26 - Enter user name and password
+2025-07-31 11:05:12 INFO  baseClass:34 - Click on login button
+2025-07-31 11:05:12 INFO  baseClass:42 - User successfully redirect to dashboard
+2025-07-31 11:08:20 INFO  baseClass:20 - Inherit login page and redirect the driver
+2025-07-31 11:08:20 INFO  baseClass:26 - Enter user name and password
+2025-07-31 11:08:20 INFO  baseClass:34 - Click on login button
+2025-07-31 11:08:20 INFO  baseClass:42 - User successfully redirect to dashboard
+2025-07-31 11:25:42 INFO  baseClass:20 - Inherit login page and redirect the driver
+2025-07-31 11:25:42 INFO  baseClass:26 - Enter user name and password
+2025-07-31 11:25:42 INFO  baseClass:34 - Click on login button
+2025-07-31 11:25:43 INFO  baseClass:42 - User successfully redirect to dashboard

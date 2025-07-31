@@ -124,6 +124,5 @@ public class baseClass {
 		return logger;
 	}
 
-
 }
 

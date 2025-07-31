@@ -13,7 +13,7 @@ public class dashboardPage extends basePage{
 
 
 	// locator 
-	@FindBy(xpath = "//h6[normalize-space()='Dashboard']")
+	@FindBy(xpath= "//h6[normalize-space()='Dashboard']")
 	WebElement AccountText;
 
 	//Acton method
